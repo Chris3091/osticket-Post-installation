@@ -88,7 +88,7 @@ Now, we are going to create 5 new help topics.
 
 Congrats we are done for part of the osTicket
 
-Visit my Next Repository for more Info
+Visit my Next Repository for more Info https://github.com/Chris3091/osTicket-lifecycle/blob/a3818bcb15c07eebdf4b71c582c30b623e8d5d19/README.md
 
 
 
