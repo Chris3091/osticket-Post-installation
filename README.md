@@ -87,6 +87,7 @@ Now, we are going to create 5 new help topics.
 <img width="1044" height="614" alt="image" src="https://github.com/user-attachments/assets/9697f596-aeef-45ba-87df-f2a71e49d725" />
 
 Congrats we are done for part of the osTicket
+
 Visit my Next Repository for more Info
 
 
