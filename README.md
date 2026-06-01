@@ -1,7 +1,7 @@
 <img width="440" height="250" alt="image" src="https://github.com/user-attachments/assets/6627290d-9da4-40a3-af30-ec4343ddae01" />
 
 # osTicket Post-Installation
-
+ 
 First, you need to login to the osTicket website using the admin login. http://localhost/osTicket/scp/login.php
 
 <img width="669" height="477" alt="image" src="https://github.com/user-attachments/assets/7198bcef-ce0c-43c1-bce7-4e871ec32a6a" /> 
